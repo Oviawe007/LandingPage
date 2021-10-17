@@ -24,6 +24,7 @@ nav{
     display:flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 2px solid rgb(235, 231, 231);
 }
 nav ul li{
     display:inline-flex;
